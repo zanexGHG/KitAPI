@@ -1,0 +1,5 @@
+name: KitAPI
+version: '${project.version}'
+main: dev.zanex.kitapi.Main
+authors: [zanexGHG, MoritzMCC]
+description: A simple API that brings in kits from the game mode HardcoreGames.
